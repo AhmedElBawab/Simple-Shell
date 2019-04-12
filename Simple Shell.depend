@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1539435853 source:/media/ahmed/My Passport/Mine/Faculty/Operating Systems/Simple Shell/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<string>
+	<sys/wait.h>
+	<string.h>
+	<vector>
+	<sstream>
+	<iterator>
+	<signal.h>
+	<sys/types.h>
+	<fstream>
+	<stdlib.h>
+
